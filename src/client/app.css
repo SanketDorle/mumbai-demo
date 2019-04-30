@@ -5,5 +5,15 @@ h1 {
 body {
   text-align: center;
   margin: auto;
+}
+
+.header{
+  margin: 40px 0;
+  padding: 20px 10px;
+  font-size: 30px;
   background-color: #eee;
+}
+
+.k-grid-header .k-grid-header-wrap table thead tr{
+  font-weight: bold;
 }

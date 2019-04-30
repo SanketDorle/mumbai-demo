@@ -1,5 +1,5 @@
 {
-  "name": "Mumbai Demo",
+  "name": "mumbai-demo",
   "version": "1.0.0",
   "description": "Demo Assignment",
   "main": "src/server/index.js",
@@ -19,6 +19,7 @@
     "@progress/kendo-react-grid": "^2.10.0",
     "@progress/kendo-react-inputs": "^2.10.0",
     "@progress/kendo-react-intl": "^2.10.0",
+    "@progress/kendo-theme-default": "^3.3.1",
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "body-parser": "^1.18.2",
